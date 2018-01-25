@@ -1,0 +1,30 @@
+{
+  "name": "diff-match-patch",
+  "version": "1.0.0",
+  "description": "Diff Match and Patch",
+  "author": "2Toad",
+  "license": "Apache-2.0",
+  "keywords": [
+    "diff",
+    "diff-match-patch",
+    "levenshtein"
+  ],
+  "main": "diff_match_patch.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "testit": "3.x"
+  },
+  "scripts": {
+    "test": "node tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2Toad/diff-match-patch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/2Toad/diff-match-patch/issues"
+  },
+  "homepage": "https://github.com/2Toad/diff-match-patch#readme"
+}
