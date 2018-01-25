@@ -1,5 +1,5 @@
 {
-  "name": "diff-match-patch",
+  "name": "@2toad/diff-match-patch",
   "version": "1.0.0",
   "description": "Diff Match and Patch",
   "author": "2Toad",
@@ -13,6 +13,7 @@
   "directories": {
     "test": "tests"
   },
+  "dependencies": {},
   "devDependencies": {
     "testit": "3.x"
   },
