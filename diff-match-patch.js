@@ -3,7 +3,7 @@
  * Copyright (c)2018 2Toad, LLC
  * https://github.com/2Toad/diff-match-patch
  *
- * Version: 1.0.0
+ * Version: 1.0.1
  */
 
 /**
