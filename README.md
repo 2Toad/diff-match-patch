@@ -10,12 +10,12 @@ a JavaScript implementation of Google's [diff-match-patch](https://code.google.c
 
 ## Installation
 
-    npm install diff-match-patch
+    npm install @2toad/diff-match-patch
 
 ## Usage
 
 ```javascript
-var DiffMatchPatch = require('diff-match-patch'); // or window.diff_match_patch
+var DiffMatchPatch = require('@2toad/diff-match-patch'); // or window.diff_match_patch
 var dmp = new DiffMatchPatch();
 var diff = dmp.diff_main('Good dog', 'Bad dog');
 ```
