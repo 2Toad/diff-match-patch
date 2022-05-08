@@ -4,7 +4,6 @@
 a JavaScript implementation of Google's [diff-match-patch](https://code.google.com/archive/p/google-diff-match-patch/) lib
 
 [![Build Status](https://img.shields.io/travis/2Toad/diff-match-patch/master.svg)](https://travis-ci.org/2Toad/diff-match-patch)
-[![Dependency Status](https://img.shields.io/david/2Toad/diff-match-patch.svg)](https://david-dm.org/2Toad/diff-match-patch)
 [![NPM version](https://img.shields.io/npm/v/@2toad/diff-match-patch.svg)](https://www.npmjs.com/package/@2toad/diff-match-patch)
 [![Known Vulnerabilities](https://snyk.io/test/github/2Toad/diff-match-patch/badge.svg)](https://snyk.io/test/github/2Toad/diff-match-patch) 
 
