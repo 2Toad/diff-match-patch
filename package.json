@@ -9,7 +9,7 @@
     "diff-match-patch",
     "levenshtein"
   ],
-  "main": "diff_match_patch.js",
+  "main": "diff-match-patch.js",
   "directories": {
     "test": "tests"
   },
